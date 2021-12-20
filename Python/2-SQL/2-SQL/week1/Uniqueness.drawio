@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="TnCPbIGszy6WoWB-u3r9" name="Page-1">
+        <mxGraphModel dx="658" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;strokeWidth=3;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;strokeWidth=3;" edge="1" parent="1" source="2" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;u&gt;Username&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;u&gt;password&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;u&gt;email&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="For a user to exist, it must have a username and password - bold lines" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="270" width="390" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="The underline means that these attributes must be unique" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="290" width="320" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
